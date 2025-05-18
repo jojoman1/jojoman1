@@ -25,7 +25,7 @@
 🌱 Passionate about solving real-life problems using code  
 💬 Open to internships and collaborative tech projects
 
-### 🔧 Tech Stack
+🔧 Tech Stack
 
 <table>
   <tr>
