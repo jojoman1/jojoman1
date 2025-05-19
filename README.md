@@ -89,16 +89,23 @@
 
 ### 📂 Featured Projects
 
+## 📊 Projects
+
 #### 🔹 [BI Dashboard](https://github.com/jojoman1/Bi-dashboard)
-> 📊 A Power BI dashboard visualizing healthcare data  
-> 💡 Shows KPIs, filterable insights, and trends  
+
+> 📊 A Power BI dashboard visualizing healthcare data
+> 💡 Shows KPIs, filterable insights, and trends
 
 #### 🔹 [Expense Tracker (Python)](https://github.com/jojoman1/expense-tracker)
-> 🧾 A CLI-based tool for tracking daily expenses using Python  
+
+> 🧾 A CLI-based tool for tracking daily expenses using Python
 > 🗃️ Saves data to CSV with options to add, delete, and summarize
 
----
+#### 🔹 [Healthcare Analysis Dashboard](https://github.com/jojoman1/Healthcare-Analysis)
 
+> 🏥 Built a Power BI dashboard using Excel datasets to visualize and extract insights from healthcare-related data including patient count, department metrics, and cost analysis.
+
+---
 ### 📈 GitHub Stats
 
 <p align="center">
