@@ -114,4 +114,7 @@
   <a href="mailto:sajidmohamed34@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohamed-sajith-36579a188"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://sajidmohamed.dev/light"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://ko-fi.com/sajidmohamed"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+  <a href="https://www.paypal.com/paypalme/realjojoman"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
+
 </p>
