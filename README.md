@@ -110,6 +110,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jojoman1&show_icons=true&theme=tokyonight" width="48%" />
+</p> 
+<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojoman1&layout=compact&theme=tokyonight" width="48%" />
 </p>
 <picture>
