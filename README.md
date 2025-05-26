@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h2 align="center">Hi there, I'm <span style="color:#3498db;">J. Mohamed Sajith</span> 👋</h2>
 <p align="center">
-  💻 Full Stack Developer | 📊 Data Analyst | 🎓 BCA Student  
+  💻 Full Stack Developer | 📊 Data Analyst | 🎓 BCA Student 
 </p>
 
 ---
