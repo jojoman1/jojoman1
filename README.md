@@ -86,6 +86,10 @@
 ![Apache Log4j](https://img.shields.io/badge/Log4j-EE2D2C?style=for-the-badge&logo=apache&logoColor=white) 
 ![Extent Reports](https://img.shields.io/badge/ExtentReports-0E76A8?style=for-the-badge&logo=report&logoColor=white)
 
+<!-- AI-powered tools -->
+![Testim (AI)](https://img.shields.io/badge/Testim%20AI-0A0A0A?style=for-the-badge&logo=testim&logoColor=white)
+![Mabl](https://img.shields.io/badge/Mabl-AI%20Testing-4B0082?style=for-the-badge&logo=data&logoColor=white)
+![Functionize](https://img.shields.io/badge/Functionize-AI%20Testing-800080?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🛠️ Tools & Version Control
 
