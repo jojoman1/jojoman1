@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h2 align="center">Hi there, I'm <span style="color:#3498db;">J. Mohamed Sajith</span> 👋</h2>
 <p align="center">
-  💻 Full Stack Developer | 🧪 QA Automation Engineer (Java + Selenium) | 📊 Data Analyst | 🎓 BCA Student 
+  💻 Full Stack Developer | 🧪 QA Automation Engineer (Java + Selenium) | 📊 Data Analyst | 🎓 BCA Student  
 </p>
 
 ---
@@ -10,19 +10,18 @@
 
 🎓 BCA student at **Manipal University Jaipur**  
 📍 Based in **Chennai, India**  
-💼 Currently working as a **QA Automation Engineer (Java + Selenium)**  
+💼 Working as a **QA Automation Engineer (Java + Selenium)**  
 ✅ Completed **Full Stack Development (MEAN Stack)**  
 🧠 Learning **Machine Learning**, **Data Analytics**, and **Advanced Test Automation**  
-💡 Passionate about solving real-life problems with technology  
-🤝 Open to internships and collaborative tech projects  
-📬 Email: sajidmohamed34@gmail.com  
+💡 Passionate about solving real-world problems with technology  
+🤝 Open to internships, freelance work, and collaborative tech projects  
+📬 Email: **sajidmohamed34@gmail.com**
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🖥️ Programming Languages
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -34,7 +33,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Frontend Frameworks
-
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -42,7 +40,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🔧 Backend / Servers
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -52,19 +49,17 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### ☁️ Cloud Platforms & DevOps
-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
-### 💾 Databases
 
+### 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📊 Data Analysis & ML
-
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -75,69 +70,65 @@
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 🧪 QA & Automation Tools (Java + Selenium)
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
-![TestNG](https://img.shields.io/badge/TestNG-F2C53D?style=for-the-badge&logo=testng&logoColor=black) 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) 
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
-![Apache Log4j](https://img.shields.io/badge/Log4j-EE2D2C?style=for-the-badge&logo=apache&logoColor=white) 
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-F2C53D?style=for-the-badge&logo=testng&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Apache Log4j](https://img.shields.io/badge/Log4j-EE2D2C?style=for-the-badge&logo=apache&logoColor=white)
 ![Extent Reports](https://img.shields.io/badge/ExtentReports-0E76A8?style=for-the-badge&logo=report&logoColor=white)
 
-<!-- AI-powered tools -->
+### 🤖 AI-Powered Testing Tools
 ![Testim (AI)](https://img.shields.io/badge/Testim%20AI-0A0A0A?style=for-the-badge&logo=testim&logoColor=white)
 ![Mabl](https://img.shields.io/badge/Mabl-AI%20Testing-4B0082?style=for-the-badge&logo=data&logoColor=white)
 ![Functionize](https://img.shields.io/badge/Functionize-AI%20Testing-800080?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🛠️ Tools & Version Control
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### 🛠️ IDEs & Code Editors
-
+### 🧰 IDEs & Code Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)  
-
-
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ---
 
 ### 📂 Featured Projects
 
 #### 🔹 [BI Dashboard](https://github.com/jojoman1/Bi-dashboard)
-
-> 📊 A Power BI dashboard visualizing healthcare data  
-> 💡 Shows KPIs, filterable insights, and trends
+> 📊 Power BI dashboard analyzing healthcare data  
+> 💡 Includes KPIs, filters, and interactive insights  
 
 #### 🔹 [Expense Tracker (Python)](https://github.com/jojoman1/expense-tracker)
-
-> 🧾 A CLI-based tool for tracking daily expenses using Python  
-> 🗃️ Saves data to CSV with options to add, delete, and summarize
+> 🧾 CLI-based daily expense tracker built using Python  
+> 🗃️ Stores and manages data using CSV files  
 
 #### 🔹 [Healthcare Analysis Dashboard](https://github.com/jojoman1/Healthcare-Analysis)
-
-> 🏥 Power BI dashboard using Excel datasets to extract insights from healthcare-related data, including patient count, department metrics, and cost analysis.
+> 🏥 Power BI dashboard showcasing healthcare metrics, department performance, and cost analysis  
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jojoman1&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojoman1&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=jojoman1&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=jojoman1&theme=tokyonight&show_icons=true&hide_border=true" width="49%" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jojoman1&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"/>
 </picture>
 
 ---
