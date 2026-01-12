@@ -1,14 +1,14 @@
 <!-- Profile Header -->
 <h2 align="center">Hi there, I'm <span style="color:#3498db;">J. Mohamed Sajith</span> 👋</h2>
 <p align="center">
-  💻 Full Stack Developer | 🧪 QA Automation Engineer (Java + Selenium) | 📊 Data Analyst | 🎓 BCA Student  
+  💻 Full Stack Developer | 🧪 QA Automation Engineer (Java + Selenium) | 📊 Data Analyst | 🎓 B.Tech 
 </p>
 
 ---
 
 ### 🚀 About Me
 
-🎓 BCA student at **Manipal University Jaipur**  
+🎓 BTech in Information Technology 
 📍 Based in **Chennai, India**  
 💼 Working as a **QA Automation Engineer (Java + Selenium)**  
 ✅ Completed **Full Stack Development (MEAN Stack)**  
